@@ -158,12 +158,14 @@ We attach a [link](https://drive.google.com/file/d/1Qhoa712WZGNe0QfIPoHS5sAfJBD1
 (Note) The artificial intelligence model depends on the data used for learning.
 If you build a model with a lot of high quality data, you will get much better results.<br><br>
 For information on GAN, please refer to the link below.
-```sh
-link1
-link2
-link3
-link4
-```
+
+[Pix2Pix main](https://phillipi.github.io/pix2pix/)
+[Pix2Pix paper](https://arxiv.org/abs/1611.07004)
+[Pix2Pix repo](https://github.com/phillipi/pix2pix)
+[Pix2Pix Tensorflow exercise](https://www.tensorflow.org/tutorials/generative/pix2pix)
+
+
+
 
 
 

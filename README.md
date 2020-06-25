@@ -138,56 +138,6 @@ git clone https://github.com/doljae/image2emage.git
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-This section describes the overall structure of the project and how to use it.
-### Structure
-```shell
-./
-|   README.md
-|   requirements.txt
-|   test.py  --> Usage example
-|          
-+---image
-|   |   image_handle.py  --> Image handler class(include extraction, conversion fucntion)
-|   |   readme.txt
-|   |   
-|   +---clean_back
-|   |       apple.png --> sample image for conversion using specific object
-|   |       
-|   +---crop_images
-|   |       crop_0.jpg  --> results of object extraction in input image
-|   |       crop_1.jpg
-|   |       crop_2.jpg
-|   |       crop_X.jpg
-|   |       crop_location.txt  --> location of cropped images
-|   |       cut_image1.jpg  --> The image from which the detected internal objects are extracted.
-|   |       cut_image2.jpg  
-|   |       
-|   +---result_images
-|   |       converted_image.jpg  --> The final converted result
-|   |       original_image.jpg  --> input image
-|   |       readme.txt
-|   |                
-+---pix2pix
-|   |   data_loader.py
-|   |   pix2pix.py  --> conversion using GAN
-|   |   
-|   +---datasets
-|   |   \---tmp
-|   |       +---saved
-|   |       |       crop_0.jpg  --> Internal object already converted due to GAN model
-|   |       |       crop_1.jpg
-|   |       |       crop_2.jpg
-|   |       |       crop_X.jpg
-|   |       |       
-|   |       \---test
-|   +---keras_contrib
-|   |     
-\---socket
-|   |   receive_convert_send.py --> Server, Receive an image to an external device and send the converted image
-
-```
-### How to use
-
 ### About GAN Model...
 The GAN model is required for image conversion using the GAN model. Please put the GAN model in the directory below.
 ```sh
@@ -204,7 +154,7 @@ link2
 link3
 link4
 ```
-_For more examples, please refer to the [Documentation](https://github.com/doljae/image2emage/)_
+_For more examples, please refer to the [Wiki page](https://github.com/doljae/convert_image_maker/wiki)
 
 
 

@@ -53,11 +53,13 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
+  * [Motivation](#motivation)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
+* [About GAN Model...](#gan)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
@@ -69,12 +71,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 When you enter an image, it creates a transformed image with some modifications to the objects inside the original image.<br>
-[![Product Name Screen Shot][product-screenshot]](https://example.com)<br>
+
+![캡처](https://user-images.githubusercontent.com/37795866/85731582-9938af00-b735-11ea-8d78-994b6ef147bd.JPG)
 
 Brief description
 * When you input an image, objects inside the image are detected through a suitable algorithm.
 * Various conversion methods (rotation, inversion, substitution with other objects, GAN conversion, etc.) are added to objects detected from the original image.
 * Create a new image by combining the original image and the converted object.
+
+### Motivation
+The project started with creating the images needed for the `spot the difference` game. The `spot the difference` game is a game that finds different parts by comparing two similar images at a given time. In general, the game is played using a fixed image set in the local environment. With this problem in mind, I started a project that analyzes the input image and creates a similar transform image.
+
+This project provides the ability to detect small objects inside the input image and convert the detected objects by applying various image processing techniques.
 
 ### Built With
 
@@ -138,7 +146,9 @@ git clone https://github.com/doljae/image2emage.git
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-### About GAN Model...
+Please refer to the [Wiki page](https://github.com/doljae/convert_image_maker/wiki)
+
+## About GAN Model...
 The GAN model is required for image conversion using the GAN model. Please put the GAN model in the directory below.
 ```sh
 ./pix2pix/your_gan_model.h5
@@ -154,7 +164,6 @@ link2
 link3
 link4
 ```
-_For more examples, please refer to the [Wiki page](https://github.com/doljae/convert_image_maker/wiki)
 
 
 

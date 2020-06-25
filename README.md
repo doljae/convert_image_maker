@@ -31,12 +31,12 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
-  <h1 align="center">Spot the difference</h1>
+  <h1 align="center">convert_image_maker for Spot the difference</h1>
 
   <p align="center">
     Graduation project using image conversion & GAN
     <br />
-    <a href="https://github.com/doljae/image2emage"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/doljae/convert_image_maker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
 <!--     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
@@ -136,7 +136,7 @@ pip install -r requirements.txt
 
 2. Clone the repo
 ```sh
-git clone https://github.com/doljae/image2emage.git
+git clone https://github.com/doljae/convert_image_maker.git
 ```
 3. Unzip the repo and put the folder in the path to use the library.
 
@@ -172,7 +172,7 @@ For information on GAN, please refer to the link below.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/doljae/image2emage/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/doljae/convert_image_maker/issues) for a list of proposed features (and known issues).
 
 
 
@@ -203,7 +203,7 @@ See the [open issues](https://github.com/doljae/image2emage/issues) for a list o
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1. Fork the Project(<https://github.com/doljae/image2emage/fork>)
+1. Fork the Project(<https://github.com/doljae/convert_image_maker/fork>)
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
@@ -214,7 +214,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the `GPLv3` License. See [`LICENSE`](https://github.com/doljae/image2emage/blob/master/LICENSE.md) for more information.
+Distributed under the `GPLv3` License. See [`LICENSE`](https://github.com/doljae/convert_image_maker/blob/master/LICENSE.md) for more information.
 
 
 
@@ -225,7 +225,7 @@ Distributed under the `GPLv3` License. See [`LICENSE`](https://github.com/doljae
 * Jinkyung Choi - twin7014@naver.com
 
 
-Project Link: [https://github.com/doljae/image2emage/](https://github.com/doljae/image2emage/)
+Project Link: [https://github.com/doljae/convert_image_maker/](https://github.com/doljae/convert_image_maker/)
 
 
 

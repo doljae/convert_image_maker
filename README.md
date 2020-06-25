@@ -59,7 +59,7 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [About GAN Model...](#gan)
+* [About GAN Model...](#About GAN Model...)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)

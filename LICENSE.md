@@ -1,4 +1,4 @@
-    <image2emage>
+    <convert_image_maker>
     Copyright (C) <2020>  <Seokjae Lee>
 
     This program is free software: you can redistribute it and/or modify

@@ -17,7 +17,7 @@
 -->
 
 [![Contributors][contributors-shield]][contributors-url]
-[![MIT License][license-shield]][license-url]
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![tensorflow badge](https://img.shields.io/badge/tensorflow-2.2.0-blue)
 ![keras badge](https://img.shields.io/badge/keras-2.4.0-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1.2.0-brightgreen)

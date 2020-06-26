@@ -163,10 +163,10 @@ We attach a [<strong>link</strong>](https://drive.google.com/file/d/1Qhoa712WZGN
 If you build a model with a lot of high quality data, you will get much better results.<br><br>
 For information on GAN, please refer to the link below.
 <br>
-[Pix2Pix main](https://phillipi.github.io/pix2pix/)<br>
-[Pix2Pix paper](https://arxiv.org/abs/1611.07004)<br>
-[Pix2Pix repo](https://github.com/phillipi/pix2pix)<br>
-[Pix2Pix Tensorflow exercise](https://www.tensorflow.org/tutorials/generative/pix2pix) --> You can make your own GAN model using tensorflow and colab!!
+* [Pix2Pix main](https://phillipi.github.io/pix2pix/)<br>
+* [Pix2Pix paper](https://arxiv.org/abs/1611.07004)<br>
+* [Pix2Pix repo](https://github.com/phillipi/pix2pix)<br>
+* [Pix2Pix Tensorflow exercise](https://www.tensorflow.org/tutorials/generative/pix2pix) --> You can make your own GAN model using tensorflow and colab!!
 
 
 

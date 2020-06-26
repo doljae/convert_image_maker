@@ -85,7 +85,7 @@ The project started with creating the images needed for the `spot the difference
 This project provides the ability to detect small objects inside the input image and convert the detected objects by applying various image processing techniques.
 
 This project was developed in two parts, "Image Conversion Function" and "Android Application".<br>
-For information on Android apps using this repo, please refer to the following [link](https://github.com/doljae/spot_the_difference).
+For information on Android apps using this repo, please refer to the following [<strong>link</strong>](https://github.com/doljae/spot_the_difference).
 
 
 ### Built With
@@ -150,14 +150,14 @@ git clone https://github.com/doljae/convert_image_maker.git
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Please refer to the [Wiki page](https://github.com/doljae/convert_image_maker/wiki)
+Please refer to the [<strong>Wiki page</strong>](https://github.com/doljae/convert_image_maker/wiki)
 
 ## About GAN Model...
 The GAN model is required for image conversion using the GAN model. Please put the GAN model in the directory below.
 ```sh
 ./pix2pix/your_gan_model.h5
 ```
-We attach a [link](https://drive.google.com/file/d/1Qhoa712WZGNe0QfIPoHS5sAfJBD1PQqd/view?usp=sharing) to download the GAN model for users who are in a condition where the model is difficult to learn, or who need quick testing.<br><br>
+We attach a [<strong>link</strong>](https://drive.google.com/file/d/1Qhoa712WZGNe0QfIPoHS5sAfJBD1PQqd/view?usp=sharing) to download the GAN model for users who are in a condition where the model is difficult to learn, or who need quick testing.<br><br>
 
 (Note) The artificial intelligence model depends on the data used for learning.
 If you build a model with a lot of high quality data, you will get much better results.<br><br>
@@ -166,7 +166,7 @@ For information on GAN, please refer to the link below.
 [Pix2Pix main](https://phillipi.github.io/pix2pix/)<br>
 [Pix2Pix paper](https://arxiv.org/abs/1611.07004)<br>
 [Pix2Pix repo](https://github.com/phillipi/pix2pix)<br>
-[Pix2Pix Tensorflow exercise](https://www.tensorflow.org/tutorials/generative/pix2pix) --> You can make your own GAN model using tensorflow and colab!!
+[Pix2Pix Tensorflow exercise] (https://www.tensorflow.org/tutorials/generative/pix2pix) --> You can make your own GAN model using tensorflow and colab!!
 
 
 

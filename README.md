@@ -31,7 +31,7 @@
 <!--   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
-  <h1 align="center">Image Conversion for Spot the difference</h1>
+  <h1 align="center">Convert Image Maker</h1>
 
   <p align="center">
     Graduation project using image conversion & GAN
@@ -83,6 +83,10 @@ Brief description
 The project started with creating the images needed for the `spot the difference` game. The `spot the difference` game is a game that finds different parts by comparing two similar images at a given time. In general, the game is played using a fixed image set in the local environment. With this problem in mind, I started a project that analyzes the input image and creates a similar transform image.
 
 This project provides the ability to detect small objects inside the input image and convert the detected objects by applying various image processing techniques.
+
+This project was developed in two parts, "Image Conversion Function" and "Android Application".<br>
+For information on Android apps using this repo, please refer to the following [link](https://github.com/doljae/spot_the_difference).
+
 
 ### Built With
 

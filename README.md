@@ -31,7 +31,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
-  <h1 align="center">convert_image_maker for Spot the difference</h1>
+  <h1 align="center">Image Conversion for Spot the difference</h1>
 
   <p align="center">
     Graduation project using image conversion & GAN

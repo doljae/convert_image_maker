@@ -24,13 +24,13 @@
 ![scipy](https://img.shields.io/badge/scipy-1.2.0-brightgreen)
 
 
+![logo](https://user-images.githubusercontent.com/37795866/85819895-0b4dda00-b7b0-11ea-8ffb-9cd137476258.png)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
 <!--   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
-
   <h1 align="center">Image Conversion for Spot the difference</h1>
 
   <p align="center">
